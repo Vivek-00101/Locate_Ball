@@ -22,3 +22,6 @@ The resultant video, `output.mp4`, shows the ball tracking and event detection i
 ![Processed Video][https://drive.google.com/file/d/1rObUNt2xQk8-c3n1NuHxICqJMSyw4n4t/view?usp=sharing]
 
 
+## Running the Code
+
+To run the code, execute the `cv.py` file. This file contains the script for ball tracking and event detection in the provided video.
