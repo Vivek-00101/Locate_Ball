@@ -21,10 +21,5 @@ The resultant video, `output.mp4`, shows the ball tracking and event detection i
 
 ![Processed Video](output.mp4)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ball-tracking-in-quadrants.git
-   cd ball-tracking-in-quadrants
 
